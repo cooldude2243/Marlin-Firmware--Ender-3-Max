@@ -24,7 +24,9 @@ If you want to automatically turn your printer off after a print
 Insert the following lines into your slicer: 
 
 G1 X0 Y210 F1000 ; Move Heat Bed to the front for easy print removal
+
 M109 R40; Wait for the hotend to cool down to 40C
+
 G1 X0 Y310 F1000; Move bed back to turn off printer
 
 Full tutorial available here: https://www.thingiverse.com/thing:3744808
