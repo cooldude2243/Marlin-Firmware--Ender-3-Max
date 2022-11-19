@@ -1,6 +1,6 @@
 # 3d-printer-files-for-ender-3-max
 
-Note: these are just the configuration files. You need the rest of the code at marlinfw.com
+Note: these are just the configuration files. You need the rest of the code at https://marlinfw.org/
 
 These configuration files have the following enabled for the Ender 3 Max.
 
