@@ -6,7 +6,7 @@ These configuration files have the following enabled for the Ender 3 Max.
 
 - A filament sensor with advanced pause
 - m600 change filament script
-- Mesh Bed leveling with a 9 probe grid
+- Mesh Bed leveling with a 9 (3×3) probe grid
 - Bed Tramming
 - Individually move axises
 - TMC2208_Standalone Drivers for X and Y axises
