@@ -19,7 +19,6 @@ PLA: 195 Hotend, 60 Bed
 
 If you want to automatically turn your printer off after a print
 
-- Bed size is increased on y axis by 10 mm
 
 Insert the following lines into your slicer: 
 
