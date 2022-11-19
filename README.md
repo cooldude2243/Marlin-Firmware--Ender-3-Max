@@ -16,3 +16,15 @@ These configuration files have the following enabled for the Ender 3 Max.
 ABS: 240 hotend, 110 Bed
 PETG: 220 Hotend, 85 Bed
 PLA: 195 Hotend, 60 Bed
+
+If you want to automatically turn your printer off after a print
+
+- Bed size is increased on y axis by 10 mm
+
+Insert the following lines into your slicer: 
+
+G1 X0 Y210 F1000 ; Move Heat Bed to the front for easy print removal
+M109 R40; Wait for the hotend to cool down to 40C
+G1 X0 Y310 F1000; Move bed back to turn off printer
+
+Full tutorial available here: https://www.thingiverse.com/thing:3744808
