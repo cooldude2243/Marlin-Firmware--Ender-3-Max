@@ -1,4 +1,4 @@
-# 3d-printer-files-for-ender-3-max
+# Marlin-Ender 3 Max
 
 Note: these are just the configuration files. You need the rest of the code at https://marlinfw.org/
 
