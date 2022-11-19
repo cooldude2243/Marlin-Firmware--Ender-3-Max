@@ -1,7 +1,7 @@
 # 3d-printer-files-for-ender-3-max
 For ender 3 max
 
-These configuration files have the following eneabled for the Ender 3 Max.
+These configuration files have the following enabled for the Ender 3 Max.
 
 - A filament sensor with advanced pause
 - m600 change filament script
